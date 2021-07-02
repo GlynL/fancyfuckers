@@ -71,7 +71,7 @@ export default function Home() {
           <Container mb="10">
             <Center>
               <Heading as="h1" size="3xl">
-                fancy fuckerss
+                fancy fuckers
               </Heading>
             </Center>
           </Container>
